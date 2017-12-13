@@ -22,7 +22,7 @@ website allows people to post about and share projects where they used the datas
 stood out to me was done by Kevin Mader, and uses a programming language entitled "R" to process the data, and 
 produce various maps of the bombing missions. One very interesting series of maps produced shows the progression 
 of missions over time. This can be seen below.
-[Credits: Kevin Mader; https://www.kaggle.com/kmader/maps-of-ww2-bombings/notebook](imgs/included/Kevin_Mader_WWII_Bombing_Maps.JPG)
+[Credits: Kevin Mader; https://www.kaggle.com/kmader/maps-of-ww2-bombings/notebook](Images/Kevin_Mader_WWII_Bombing_Maps.JPG)
 
 Another project, which was done by Shane Smith is entitled "Did Bombing Operations Change on D-Day?". This used 
 Python to process and analyze the WWII bombing dataset. In this project, Smith was able to identify various trends
@@ -56,11 +56,11 @@ I have also created two views, which are a way of designing a query, and then sa
 The first view I created was a view which will display information about units and the ordinance they used at specific target locations. This would be useful if you wanted to quickly find out statistics about ordinance dropped on targets.
 The second view I created produces the number of missions a specific unit went on. This could be used as reference in research on specific units. It could also be used as a way to realize new and interesting insights which would be difficult to gain through traditional humanities efforts.
     
-[Final Version of the Schema](imgs/included/Scheema_Design3.png)
+[Final Version of the Schema](Images/Scheema_Design3.png)
     
     
 Also included is the MySQL Workbook file, which contains the schema design.
-[Workbook file](files/WWII_Bombing_DB_Final.mwb).
+[Workbook file](Files/WWII_Bombing_DB_Final.mwb).
 
 # Next Steps
     
