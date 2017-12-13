@@ -59,7 +59,7 @@ I have also created two views, which are a way of designing a query, and then sa
 The first view I created was a view which will display information about units and the ordinance they used at specific target locations. This would be useful if you wanted to quickly find out statistics about ordinance dropped on targets.
 The second view I created produces the number of missions a specific unit went on. This could be used as reference in research on specific units. It could also be used as a way to realize new and interesting insights which would be difficult to gain through traditional humanities efforts.
     
-[Final Version of Schema](https://github.com/dclement1/WWII_Bombing_Missions_DB/blob/master/Images/Scheema_Design3.png?raw=true)
+![Final Version of Schema](https://github.com/dclement1/WWII_Bombing_Missions_DB/blob/master/Images/Scheema_Design3.png?raw=true)
     
     
 Also included is the MySQL Workbook file, which contains the schema design.
