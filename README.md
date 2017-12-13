@@ -11,11 +11,11 @@ as well an increase in the ability of digital humanists to study this dataset in
 # Background and Purpose
 
 This dataset was completely new to me, and was found online while searching for historical datasets. 
-This dataset was hosted on a website, www.kaggle.com , and was uploaded by the United States Air force. 
+This dataset was hosted on a website, https://www.kaggle.com , and was uploaded by the United States Air force. 
 This dataset contains 178,282 missions by allied air forces during World War II. It contains over 43 columns 
 of information, such as units associated with each mission, departure and target geographic coordinates, 
 aircraft left, aircraft returned, aircraft damaged, as well as information on the amount and type of
-ordinance which was dropped on the target.
+ordinance which was dropped on the target. A direct link to the dataset is located https://www.kaggle.com/usaf/world-war-ii
 
 This dataset has certainly been used by others in very interesting digital humanities projects. On Kaggle, the 
 website allows people to post about and share projects where they used the dataset. One of the projects which 
