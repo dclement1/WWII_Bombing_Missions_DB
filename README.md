@@ -1,5 +1,6 @@
 ### By: Daniel Clement
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This repository is a clone of a project I did for a Digital Humanities II class at the University of South Florida. 
+
+
 
 # World War II Bombing Mission -- SQL Relational Database
 
