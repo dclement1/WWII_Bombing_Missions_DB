@@ -1,8 +1,5 @@
-### By: Daniel Clement
-
-
-
 # World War II Bombing Missions -- SQL Relational Database
+### By: Daniel Clement
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This project is an attempt to create a relational database of the World War II bombing missions dataset. Some digital humanities projects have already been done with this dataset; however none of them take advantage of the usefulness
 of relational databases. Therefore, I believe the creation of this database will allow an increased ease of access, 
