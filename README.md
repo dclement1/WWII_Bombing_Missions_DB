@@ -22,7 +22,7 @@ website allows people to post about and share projects where they used the datas
 stood out to me was done by Kevin Mader, and uses a programming language entitled "R" to process the data, and 
 produce various maps of the bombing missions. One very interesting series of maps produced shows the progression 
 of missions over time. This can be seen below.
-[Credits: Kevin Mader; https://www.kaggle.com/kmader/maps-of-ww2-bombings/notebook](Images/Kevin_Mader_WWII_Bombing_Maps.JPG)
+![Credits: Kevin Mader; https://www.kaggle.com/kmader/maps-of-ww2-bombings/notebook](Images/Kevin_Mader_WWII_Bombing_Maps.JPG)
 
 Another project, which was done by Shane Smith is entitled "Did Bombing Operations Change on D-Day?". This used 
 Python to process and analyze the WWII bombing dataset. In this project, Smith was able to identify various trends
