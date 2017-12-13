@@ -25,7 +25,7 @@ of missions over time. This can be seen below.
 
 Credits: Kevin Mader; https://www.kaggle.com/kmader/maps-of-ww2-bombings/notebook
 
-![Bombing Map](https://github.com/dclement1/WWII_Bombing_Missions_DB/Images/Kevin_Mader_WWII_Bombing_Maps.JPG)
+![Bombing Map](https://github.com/dclement1/WWII_Bombing_Missions_DB/blob/master/Images/Kevin_Mader_WWII_Bombing_Maps.JPG)
 
 Another project, which was done by Shane Smith is entitled "Did Bombing Operations Change on D-Day?". This used 
 Python to process and analyze the WWII bombing dataset. In this project, Smith was able to identify various trends
