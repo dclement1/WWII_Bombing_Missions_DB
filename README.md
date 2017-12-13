@@ -48,7 +48,7 @@ historical dataset will be more easily and readily available for researchers.
     
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Designing the database for this particular dataset initially seemed fairly straightforward, however required several attempts to fine tune and refine, before I was satisfied with it. Ultimately it was the design that proved the largest challenge with this project. The database would be created using a free program entitled, MySQL Workbench. This is a program which allows you to design a SQL database, graphically, rather than purely in code. This allows someone with only a rudimentary knowledge of SQL language to create and design database. The decision was made to make five main tables: Mission, Location, Target, Ordinance, Units. These five tables are joined together via intermediary tables which serve simply as place holders for ID numbers which relate each table to the other. In addition, the Ordinance table was related to the target table, so that it would be possible to query the database for things such as the amount of ordinance dropped on a particular target. Similar relations were formed between the Units table and the Ordinance table. in addition, the Mission table has had relationships connected to all of the other tables. An image of the graphical representation of the schema, as designed in MySQL Workbench is displayed below.
     
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I have also created two views, which are a way of designing a query, and then saving it, so that in the future, you can simply use the view, as opposed to writing the entire code for the view.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I have also created two views, which are a way of designing a query, and then saving it, so that in the future, you can simply use the view as a shortcut. as opposed to writing out the entire query code again.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The first view I created was a view which will display information about units and the ordinance they used at specific target locations. This would be useful if you wanted to quickly find out statistics about ordinance dropped on targets.
 
@@ -74,6 +74,6 @@ Also included is the MySQL Workbook file, which contains the schema design.
                     This project would not have been possible with out his support,
                     expertise, and guidance. 
     
-* Students of HIS4936, Hacking History: Programming Digital Scholarship
+* Students of HIS4936, Digital Humanies II -- Hacking History: Programming Digital Scholarship
 
     
